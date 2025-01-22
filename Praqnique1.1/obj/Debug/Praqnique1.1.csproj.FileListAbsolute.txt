@@ -29,3 +29,6 @@ C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.cs
 C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.csproj.CoreCompileInputs.cache
 C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.exe
 C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.pdb
+C:\Users\Goethe\source\repos\PraqniqueEstrella\Praqnique1.1\obj\Debug\Praqnique1.1.csproj.AssemblyReference.cache
+C:\Users\Goethe\source\repos\PraqniqueEstrella\Praqnique1.1\obj\Debug\Praqnique1.1.exe
+C:\Users\Goethe\source\repos\PraqniqueEstrella\Praqnique1.1\obj\Debug\Praqnique1.1.pdb
