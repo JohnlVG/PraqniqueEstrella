@@ -1,0 +1,31 @@
+D:\TRABAJO\grafica\luis\Tetris\Praqnique1.1\Praqnique1.1\bin\Debug\Praqnique1.1.exe.config
+D:\TRABAJO\grafica\luis\Tetris\Praqnique1.1\Praqnique1.1\bin\Debug\Praqnique1.1.exe
+D:\TRABAJO\grafica\luis\Tetris\Praqnique1.1\Praqnique1.1\bin\Debug\Praqnique1.1.pdb
+D:\TRABAJO\grafica\luis\Tetris\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.csproj.AssemblyReference.cache
+D:\TRABAJO\grafica\luis\Tetris\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.csproj.SuggestedBindingRedirects.cache
+D:\TRABAJO\grafica\luis\Tetris\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1._1.Form1.resources
+D:\TRABAJO\grafica\luis\Tetris\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1._1.Properties.Resources.resources
+D:\TRABAJO\grafica\luis\Tetris\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.csproj.GenerateResource.cache
+D:\TRABAJO\grafica\luis\Tetris\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.csproj.CoreCompileInputs.cache
+D:\TRABAJO\grafica\luis\Tetris\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.exe
+D:\TRABAJO\grafica\luis\Tetris\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.pdb
+C:\Users\User\Documents\Grafica\Computacion Grafica\Parcial 1\Grupo7_Castillo_Noguera_Vinueza\Praqnique1.1\Praqnique1.1\bin\Debug\Praqnique1.1.exe.config
+C:\Users\User\Documents\Grafica\Computacion Grafica\Parcial 1\Grupo7_Castillo_Noguera_Vinueza\Praqnique1.1\Praqnique1.1\bin\Debug\Praqnique1.1.exe
+C:\Users\User\Documents\Grafica\Computacion Grafica\Parcial 1\Grupo7_Castillo_Noguera_Vinueza\Praqnique1.1\Praqnique1.1\bin\Debug\Praqnique1.1.pdb
+C:\Users\User\Documents\Grafica\Computacion Grafica\Parcial 1\Grupo7_Castillo_Noguera_Vinueza\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Grafica\Computacion Grafica\Parcial 1\Grupo7_Castillo_Noguera_Vinueza\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1._1.Form1.resources
+C:\Users\User\Documents\Grafica\Computacion Grafica\Parcial 1\Grupo7_Castillo_Noguera_Vinueza\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1._1.Properties.Resources.resources
+C:\Users\User\Documents\Grafica\Computacion Grafica\Parcial 1\Grupo7_Castillo_Noguera_Vinueza\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.csproj.GenerateResource.cache
+C:\Users\User\Documents\Grafica\Computacion Grafica\Parcial 1\Grupo7_Castillo_Noguera_Vinueza\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Grafica\Computacion Grafica\Parcial 1\Grupo7_Castillo_Noguera_Vinueza\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.exe
+C:\Users\User\Documents\Grafica\Computacion Grafica\Parcial 1\Grupo7_Castillo_Noguera_Vinueza\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.pdb
+C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\bin\Debug\Praqnique1.1.exe.config
+C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\bin\Debug\Praqnique1.1.exe
+C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\bin\Debug\Praqnique1.1.pdb
+C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.csproj.AssemblyReference.cache
+C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1._1.Form1.resources
+C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1._1.Properties.Resources.resources
+C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.csproj.GenerateResource.cache
+C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.csproj.CoreCompileInputs.cache
+C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.exe
+C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.pdb
