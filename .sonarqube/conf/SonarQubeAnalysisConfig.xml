@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AnalysisConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <SonarConfigDir>C:\Users\Goethe\source\repos\PraqniqueEstrella\.sonarqube\conf</SonarConfigDir>
-  <SonarOutputDir>C:\Users\Goethe\source\repos\PraqniqueEstrella\.sonarqube\out</SonarOutputDir>
-  <SonarBinDir>C:\Users\Goethe\source\repos\PraqniqueEstrella\.sonarqube\bin</SonarBinDir>
-  <SonarScannerWorkingDirectory>C:\Users\Goethe\source\repos\PraqniqueEstrella</SonarScannerWorkingDirectory>
+  <SonarConfigDir>C:\Users\Goethe\Source\Repos\PraqniqueEstrella\.sonarqube\conf</SonarConfigDir>
+  <SonarOutputDir>C:\Users\Goethe\Source\Repos\PraqniqueEstrella\.sonarqube\out</SonarOutputDir>
+  <SonarBinDir>C:\Users\Goethe\Source\Repos\PraqniqueEstrella\.sonarqube\bin</SonarBinDir>
+  <SonarScannerWorkingDirectory>C:\Users\Goethe\Source\Repos\PraqniqueEstrella</SonarScannerWorkingDirectory>
   <JavaExePath>C:\Users\Goethe\.sonar\cache\11a61a94d383e755b08b4e5890a13d148bc9f95b7149cbbeec62efb8c75a4a67\OpenJDK17U-jre_x64_windows_hotspot_17.0.13_11.zip_extracted\jdk-17.0.13+11-jre/bin/java.exe</JavaExePath>
   <ScanAllAnalysis>true</ScanAllAnalysis>
   <HasBeginStepCommandLineCredentials>true</HasBeginStepCommandLineCredentials>
@@ -15,7 +15,7 @@
     <ConfigSetting Id="TfsUri" />
     <ConfigSetting Id="VsCoverageConverterToolPath" />
     <ConfigSetting Id="UnchangedFilesPath" />
-    <ConfigSetting Id="sonar.pullrequest.cache.basepath" Value="C:\Users\Goethe\source\repos\PraqniqueEstrella" />
+    <ConfigSetting Id="sonar.pullrequest.cache.basepath" Value="C:\Users\Goethe\Source\Repos\PraqniqueEstrella" />
     <ConfigSetting Id="settings.file.path" Value="C:\Users\Goethe\.dotnet\tools\.store\dotnet-sonarscanner\9.0.2\dotnet-sonarscanner\9.0.2\tools\netcoreapp3.1\any\SonarQube.Analysis.xml" />
   </AdditionalConfig>
   <ServerSettings>
@@ -151,8 +151,8 @@
   <AnalyzersSettings>
     <AnalyzerSettings>
       <Language>cs</Language>
-      <RulesetPath>C:\Users\Goethe\source\repos\PraqniqueEstrella\.sonarqube\conf\Sonar-cs.ruleset</RulesetPath>
-      <DeactivatedRulesetPath>C:\Users\Goethe\source\repos\PraqniqueEstrella\.sonarqube\conf\Sonar-cs-none.ruleset</DeactivatedRulesetPath>
+      <RulesetPath>C:\Users\Goethe\Source\Repos\PraqniqueEstrella\.sonarqube\conf\Sonar-cs.ruleset</RulesetPath>
+      <DeactivatedRulesetPath>C:\Users\Goethe\Source\Repos\PraqniqueEstrella\.sonarqube\conf\Sonar-cs-none.ruleset</DeactivatedRulesetPath>
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="csharp" Version="10.4.0.108396" StaticResourceName="SonarAnalyzer-csharp-10.4.0.108396.zip">
           <AssemblyPaths>
@@ -168,13 +168,13 @@
         </AnalyzerPlugin>
       </AnalyzerPlugins>
       <AdditionalFilePaths>
-        <Path>C:\Users\Goethe\source\repos\PraqniqueEstrella\.sonarqube\conf\cs\SonarLint.xml</Path>
+        <Path>C:\Users\Goethe\Source\Repos\PraqniqueEstrella\.sonarqube\conf\cs\SonarLint.xml</Path>
       </AdditionalFilePaths>
     </AnalyzerSettings>
     <AnalyzerSettings>
       <Language>vbnet</Language>
-      <RulesetPath>C:\Users\Goethe\source\repos\PraqniqueEstrella\.sonarqube\conf\Sonar-vbnet.ruleset</RulesetPath>
-      <DeactivatedRulesetPath>C:\Users\Goethe\source\repos\PraqniqueEstrella\.sonarqube\conf\Sonar-vbnet-none.ruleset</DeactivatedRulesetPath>
+      <RulesetPath>C:\Users\Goethe\Source\Repos\PraqniqueEstrella\.sonarqube\conf\Sonar-vbnet.ruleset</RulesetPath>
+      <DeactivatedRulesetPath>C:\Users\Goethe\Source\Repos\PraqniqueEstrella\.sonarqube\conf\Sonar-vbnet-none.ruleset</DeactivatedRulesetPath>
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="csharp" Version="10.4.0.108396" StaticResourceName="SonarAnalyzer-csharp-10.4.0.108396.zip">
           <AssemblyPaths>
@@ -190,7 +190,7 @@
         </AnalyzerPlugin>
       </AnalyzerPlugins>
       <AdditionalFilePaths>
-        <Path>C:\Users\Goethe\source\repos\PraqniqueEstrella\.sonarqube\conf\vbnet\SonarLint.xml</Path>
+        <Path>C:\Users\Goethe\Source\Repos\PraqniqueEstrella\.sonarqube\conf\vbnet\SonarLint.xml</Path>
       </AdditionalFilePaths>
     </AnalyzerSettings>
   </AnalyzersSettings>
