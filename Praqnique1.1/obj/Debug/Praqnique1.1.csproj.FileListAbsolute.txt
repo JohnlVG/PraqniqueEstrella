@@ -29,3 +29,13 @@ C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.cs
 C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.csproj.CoreCompileInputs.cache
 C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.exe
 C:\Users\VonGoethe\Downloads\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.pdb
+C:\Users\Goethe\Documents\git\a no git-2022\Praqnique1.1\Praqnique1.1\bin\Debug\Praqnique1.1.exe.config
+C:\Users\Goethe\Documents\git\a no git-2022\Praqnique1.1\Praqnique1.1\bin\Debug\Praqnique1.1.exe
+C:\Users\Goethe\Documents\git\a no git-2022\Praqnique1.1\Praqnique1.1\bin\Debug\Praqnique1.1.pdb
+C:\Users\Goethe\Documents\git\a no git-2022\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.csproj.AssemblyReference.cache
+C:\Users\Goethe\Documents\git\a no git-2022\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1._1.Form1.resources
+C:\Users\Goethe\Documents\git\a no git-2022\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1._1.Properties.Resources.resources
+C:\Users\Goethe\Documents\git\a no git-2022\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.csproj.GenerateResource.cache
+C:\Users\Goethe\Documents\git\a no git-2022\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.csproj.CoreCompileInputs.cache
+C:\Users\Goethe\Documents\git\a no git-2022\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.exe
+C:\Users\Goethe\Documents\git\a no git-2022\Praqnique1.1\Praqnique1.1\obj\Debug\Praqnique1.1.pdb

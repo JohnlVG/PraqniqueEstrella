@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Praqnique1.1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31e1d4fab0fd6346e53bfd3476140ee1d1d76767")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8300dea51ec3646dbba7e3f74a625b78618d0f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Praqnique1.1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Praqnique1.1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

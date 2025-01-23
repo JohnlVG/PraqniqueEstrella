@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Goethe\\Source\\Repos\\PraqniqueEstrella\\Praqnique1.1\\Praqnique1.1.csproj": {}
+    "C:\\Users\\Goethe\\source\\repos\\PraqniqueEstrella\\Praqnique1.1\\Praqnique1.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Goethe\\Source\\Repos\\PraqniqueEstrella\\Praqnique1.1\\Praqnique1.1.csproj": {
+    "C:\\Users\\Goethe\\source\\repos\\PraqniqueEstrella\\Praqnique1.1\\Praqnique1.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Goethe\\Source\\Repos\\PraqniqueEstrella\\Praqnique1.1\\Praqnique1.1.csproj",
+        "projectUniqueName": "C:\\Users\\Goethe\\source\\repos\\PraqniqueEstrella\\Praqnique1.1\\Praqnique1.1.csproj",
         "projectName": "Praqnique1.1",
-        "projectPath": "C:\\Users\\Goethe\\Source\\Repos\\PraqniqueEstrella\\Praqnique1.1\\Praqnique1.1.csproj",
+        "projectPath": "C:\\Users\\Goethe\\source\\repos\\PraqniqueEstrella\\Praqnique1.1\\Praqnique1.1.csproj",
         "packagesPath": "C:\\Users\\Goethe\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Goethe\\Source\\Repos\\PraqniqueEstrella\\Praqnique1.1\\obj\\",
         "projectStyle": "PackageReference",

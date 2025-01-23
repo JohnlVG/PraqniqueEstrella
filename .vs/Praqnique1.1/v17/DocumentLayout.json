@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Goethe\\source\\repos\\PraqniqueEstrella\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{638CDD93-63E5-4CFE-97E6-79642D507E60}|Praqnique1.1\\Praqnique1.1.csproj|c:\\users\\goethe\\source\\repos\\praqniqueestrella\\praqnique1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{638CDD93-63E5-4CFE-97E6-79642D507E60}|Praqnique1.1\\Praqnique1.1.csproj|c:\\users\\goethe\\source\\repos\\praqniqueestrella\\praqnique1.1\\cpraqnique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638CDD93-63E5-4CFE-97E6-79642D507E60}|Praqnique1.1\\Praqnique1.1.csproj|solutionrelative:praqnique1.1\\cpraqnique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638CDD93-63E5-4CFE-97E6-79642D507E60}|Praqnique1.1\\Praqnique1.1.csproj|C:\\Users\\Goethe\\source\\repos\\PraqniqueEstrella\\praqnique1.1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638CDD93-63E5-4CFE-97E6-79642D507E60}|Praqnique1.1\\Praqnique1.1.csproj|solutionrelative:praqnique1.1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638CDD93-63E5-4CFE-97E6-79642D507E60}|Praqnique1.1\\Praqnique1.1.csproj|C:\\Users\\Goethe\\source\\repos\\PraqniqueEstrella\\praqnique1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{638CDD93-63E5-4CFE-97E6-79642D507E60}|Praqnique1.1\\Praqnique1.1.csproj|solutionrelative:praqnique1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,15 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Goethe\\source\\repos\\PraqniqueEstrella\\Praqnique1.1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Praqnique1.1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Goethe\\source\\repos\\PraqniqueEstrella\\Praqnique1.1\\Form1.Designer.cs",
+              "RelativeToolTip": "Praqnique1.1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:05:24.816Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CPraqnique.cs",
+              "DocumentMoniker": "C:\\Users\\Goethe\\source\\repos\\PraqniqueEstrella\\Praqnique1.1\\CPraqnique.cs",
+              "RelativeDocumentMoniker": "Praqnique1.1\\CPraqnique.cs",
+              "ToolTip": "C:\\Users\\Goethe\\source\\repos\\PraqniqueEstrella\\Praqnique1.1\\CPraqnique.cs",
+              "RelativeToolTip": "Praqnique1.1\\CPraqnique.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:05:08.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Goethe\\source\\repos\\PraqniqueEstrella\\Praqnique1.1\\Program.cs",
               "RelativeDocumentMoniker": "Praqnique1.1\\Program.cs",
@@ -30,12 +67,7 @@
               "RelativeToolTip": "Praqnique1.1\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAjwAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:51:58.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "WhenOpened": "2025-01-23T02:51:58.098Z"
             }
           ]
         }
